@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\ZUMA\\ZUMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCFAE9C-2462-42F4-9BDF-AD5CD26D760E}|ZUMA\\ZUMA.vcxproj|C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\ZUMA\\ZUMA\\ZUMA\\23i-0566_FINAL_ZUMBA.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABCFAE9C-2462-42F4-9BDF-AD5CD26D760E}|ZUMA\\ZUMA.vcxproj|solutionrelative:ZUMA\\23i-0566_FINAL_ZUMBA.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "23i-0566_FINAL_ZUMBA.asm",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\ZUMA\\ZUMA\\ZUMA\\23i-0566_FINAL_ZUMBA.asm",
+              "RelativeDocumentMoniker": "ZUMA\\23i-0566_FINAL_ZUMBA.asm",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Desktop stuff\\Semesters Work\\Preiouv sems\\ZUMA\\ZUMA\\ZUMA\\23i-0566_FINAL_ZUMBA.asm",
+              "RelativeToolTip": "ZUMA\\23i-0566_FINAL_ZUMBA.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-27T10:07:15.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
